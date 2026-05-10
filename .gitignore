@@ -13,7 +13,6 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.aab
-*.apk
 output-metadata.json
 
 # IntelliJ
@@ -32,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Prez
+*.pdf
